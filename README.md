@@ -352,6 +352,6 @@ Interested in:
 - Data Engineering
 - Business Intelligence
 
-GitHub: *Add your GitHub profile here.*
+GitHub: https://github.com/MChand20656789
 
-LinkedIn: *Add your LinkedIn profile here.*
+LinkedIn: https://www.linkedin.com/in/megha-chandrashaker-1791a422a/
