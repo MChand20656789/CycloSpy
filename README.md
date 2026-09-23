@@ -13,6 +13,9 @@ This project demonstrates an end-to-end data analytics workflow including data c
 ### Live Dashboard
 https://mchand20656789-cyclospy-dashboardapp-ludjjn.streamlit.app/
 
+### Demo Video
+https://drive.google.com/file/d/1Gvy6EFGpccQcoQoBCNe6d7pLNnswoLlq/view?usp=sharing
+
 ---
 
 # Project Objectives
